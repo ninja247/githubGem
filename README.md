@@ -26,7 +26,6 @@ Things you may want to cover:
 
 
 
-<!-- 
 
 finished here the two methods on the blogs controller weren't able to be called #list and #languages
 
@@ -34,9 +33,6 @@ http://www.rubydoc.info/github/piotrmurach/github/master/Github/Client/Repos#lan
 
 
 http://www.rubydoc.info/github/piotrmurach/github/master/Github%2FClient%2FRepos:languages
-
-
- -->
 
 
 
